@@ -1,11 +1,11 @@
 # Mini Container Runtime with Kernel Monitoring
 
 ##  Student Details
-##Teammate 1:-
+Teammate 1:-
 Name: Syed Obaid Faraz  
 SRN: PES2UG24CS546
 
-##Teammate 2:-
+Teammate 2:-
 Name: Suryatej V
 SRN: PES2UG24CS541
 ---
