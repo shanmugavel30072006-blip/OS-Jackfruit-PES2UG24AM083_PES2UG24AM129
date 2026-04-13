@@ -2,12 +2,12 @@
 
 ##  Student Details
 Teammate 1:-
-Name: Syed Obaid Faraz  
-SRN: PES2UG24CS546
+Name: Shanmuga vel
+SRN: PES2UG24AM083
 
 Teammate 2:-
-Name: Suryatej V
-SRN: PES2UG24CS541
+Name: Rahul 
+SRN: PES2UG24AM129
 ---
 
 #  Project Overview
