@@ -1,11 +1,11 @@
 # Mini Container Runtime with Kernel Monitoring
 
 ##  Student Details
-Teammate 1:-
+Teammate 1:-<br>
 Name: Shanmuga vel
 SRN: PES2UG24AM083
 
-Teammate 2:- <br>
+Teammate 2:- 
 Name: Rahul 
 SRN: PES2UG24AM129
 ---
