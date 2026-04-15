@@ -2,12 +2,12 @@
 
 ##  Student Details
 Teammate 1:-<br>
-Name: Shanmuga vel
-SRN: PES2UG24AM083
-
-Teammate 2:- 
 Name: Rahul 
 SRN: PES2UG24AM129
+
+Teammate 2:- 
+Name:  Shanmuga vel
+SRN: PES2UG24AM083
 ---
 
 #  Project Overview
